@@ -1,0 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<income>
+	<amount>1000.52</amount>
+	<date>
+		<day>5</day>
+		<month>2</month>
+		<year>2019</year>
+	</date>
+</income>

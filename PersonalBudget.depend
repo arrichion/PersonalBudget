@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1548686930 source:c:\program files (x86)\codeblocks\share\codeblocks\projects\personalbudget\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1548686930 c:\program files (x86)\codeblocks\share\codeblocks\projects\personalbudget\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1552231712 source:c:\program files (x86)\codeblocks\share\codeblocks\projects\personalbudget\datemanager.cpp
+	"DateManager.h"
+	"Date.h"
+
+1552232094 c:\program files (x86)\codeblocks\share\codeblocks\projects\personalbudget\datemanager.h
+	<iostream>
+	<string>
+	<ctime>
+	"Markup.h"
+	"Date.h"
+
+1552232369 c:\program files (x86)\codeblocks\share\codeblocks\projects\personalbudget\date.h
+	<iostream>
+	<string>
+	<ctime>
+	"Markup.h"
+
